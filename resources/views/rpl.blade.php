@@ -7,6 +7,7 @@
 	<title>tugas</title>
 </head>
 <body>
+	<img src="a.jpg">
 	<h1> REKAYASA PERANGKAT LUNAK (RPL)</h1><br><br>
 Rekayasa perangkat lunak (RPL, atau dalam bahasa Inggris: Software Engineering atau SE) adalah satu bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan, pemeliharaan, manajemen organisasi pengembanganan perangkat lunak dan manajemen kualitas.
 
